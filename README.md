@@ -8,6 +8,7 @@ Moving forward, I need to figure out how to scale this model to be able to scrap
 2. Made a request to scrape all eateries from Bangalore using the city's latitude and longitude and looking up "restaurant" in the type of place parameter
 3. Tried working on a while loop to be able to get all sixty results possible for one search, but ended up writing out the request manually. Here's the code I used which didn't work (went into an infinite loop)
 
+```py
 while True:
     try:
         api_response = gmaps.places_nearby(
@@ -16,11 +17,12 @@ while True:
             type="restaurant",
             page_token=next_page_token
         )
-#         print(api_response)
-all_results_list.append(api_response.results)
+        print(api_response)
+        all_results_list.append(api_response.results)
         next_page_token = api_response.next_page_token
     except:
         print(api_response)
+```
 
 4. Converted the json into a dataframe, cleaned it up and exported to a CSV
 5. Made a preliminary chart using datawrapper
