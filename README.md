@@ -1,7 +1,8 @@
-# Where's the best  Biryani at ... according to Zomato users
+# Where's the best  Biryani at?
+
 Indians love Biryani. Our cities fight over them and we're obsessed with proving ours is the ONE supreme kind. This project will (hopefully) help settle the bet and use data to prove which city REALLY has the best Biryani!
 
-#### Goal
+### Goal
 To create a database of eateries (restaurants, bars, street food) that's sortable by user reviews and price ranges. I first used Google Maps' API to scrape the data. After a major challenge, I pivoted to using [Zomato]('https://www.zomato.com/') and since Zomato doesn't allow API requests, I used Selenium and Beautiful Soup.
 
 ##### *The challenge with using Google Maps API*
