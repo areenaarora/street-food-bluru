@@ -1,0 +1,546 @@
+name,rating,price,city
+Moti Mahal Delux,3.8,300,Delhi
+Gulati,4.3,300,Delhi
+Veg Gulati,4,300,Delhi
+Bikkgane Biryani,3.9,300,Delhi
+Paradise Muradabadi Chicken Biryani,4.1,300,Delhi
+Dhaba On Wheels,3.1,300,Delhi
+Mr Naan Mrs Curry,3.4,300,Delhi
+Irshad Hussain Dhaba,4,300,Delhi
+Zaika Muradabadi Chicken Biryani,3.5,300,Delhi
+Best In Town,0,250,Delhi
+Bowl Of Biryani,3.6,250,Delhi
+Al Zayka Sufyan Chicken Corner,4,250,Delhi
+Muradabadi Chicken Biryani,0,250,Delhi
+Quality Restaurant,0,250,Delhi
+God Father Restaurant,0,250,Delhi
+Maalgaadi By Dhaba Estd 1986 Delhi,4.1,250,Delhi
+UBQ By Barbeque Nation,3.8,250,Delhi
+Dhaba By Taj,3.1,250,Delhi
+The Biryani Life,4,250,Delhi
+Oberoi Biryani,4,250,Delhi
+Punjab Grill,4,250,Delhi
+Biryani By Kilo,4.2,400,Delhi
+Zaika Chicken Biryani,3.8,400,Delhi
+New Shama Chicken Corner,3.9,400,Delhi
+Shahi Mughlai Mahal,0,400,Delhi
+Ballu Bawarchi,3.2,400,Delhi
+Kahi Se Bhi,3.2,400,Delhi
+Bhukha Sher,3.6,400,Delhi
+Musafir By Imly,3.4,400,Delhi
+Dilli 6 Ki Shahi Biryani,0,400,Delhi
+Khan Chacha Hydrabadi Since 2007,3.2,400,Delhi
+Biryani's Kisi Bhi Time,3.2,400,Delhi
+The Masala Garage,4,400,Delhi
+Raja Bhoj & Co.,3.5,250,Delhi
+Chawal Chicken,0,250,Delhi
+Wow! Biryani,0,250,Delhi
+Biryani And Muglai House,3.2,250,Delhi
+Lala Bhai,4,250,Delhi
+Too Indian,3.7,250,Delhi
+Alam Muradabadi Chicken Biryani Centre,0,250,Delhi
+Butter Chicken Factory Since 1979,4,250,Delhi
+Rahman Food Take Away,4,250,Delhi
+Jubilee Hyderabadi Biryani,3.7,250,Delhi
+Butterangi,3.5,250,Delhi
+Bhookemon,4.1,250,Delhi
+Raj Chicken Corner ,0,150,Delhi
+Special No1 Biryani House,3.6,150,Delhi
+Foodieheart,0,150,Delhi
+Sardar Ji Biryani,3.2,150,Delhi
+Chef's Kitchen,3.6,150,Delhi
+Behrouz Biryani,4.1,150,Delhi
+Barista,4.3,150,Delhi
+Nazeer Foods,4,150,Delhi
+The Great Kabab Factory - Radisson Blu Marina,3.6,150,Delhi
+Hyderabadi Biriyani,4,150,Delhi
+Navaab Saab 24@7 Kitchen,3.7,150,Delhi
+LunchBox - Meals and Thalis,3.9,150,Delhi
+Zam Zam Food Express,0,250,Delhi
+Saada Pind (Oh! Pind),4.1,250,Delhi
+Xxtra Chutney By Prince Paan,3.7,250,Delhi
+Forever Andhra,4.1,250,Delhi
+Andhra Kodi Pulao,3.7,250,Delhi
+Medley Meals,0,250,Delhi
+Bagundi Tiffins,4,250,Delhi
+Kinbuck 2,0,250,Delhi
+Flame of Indian Spices,3.9,250,Delhi
+Biryani Badshah,4,250,Delhi
+The Good Bowl,3.9,250,Delhi
+Bagundi Andhra Kitchen,4,250,Delhi
+Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani,4,500,Delhi
+Abdul Ghani Qureshi Kabab Corner,4.2,500,Delhi
+Biryani Blues,4.1,500,Delhi
+Laale Di Chaap,3.2,500,Delhi
+Hyderabadi Biryani Bhawan,3.9,500,Delhi
+Rozi Roti,3.4,500,Delhi
+Thalassery Restaurant,3.4,500,Delhi
+Punjabi Grilled,3.9,500,Delhi
+The Southern Kitchen,3.9,500,Delhi
+Hello G Sas Kitchen,3.3,500,Delhi
+Parantha Sharantha,3.1,500,Delhi
+Curry Kitchen,0,500,Delhi
+Annie's Kerala Kitchen,3.8,200,Delhi
+Oye Chhotu,3.5,200,Delhi
+Chattore Dilli Ke,3.8,200,Delhi
+Sikkim Kitchen,4.3,200,Delhi
+Thali's Kisi Bhi Time,0,200,Delhi
+,0,0,Delhi
+Charcoal Eats - Biryani & Beyond,4.1,350,Mumbai
+Sardar Paya House - Pappu Paya Wala,4,350,Mumbai
+Hangla's,4,350,Mumbai
+The Biryani Life,3.8,350,Mumbai
+Swadeshi Rasoi,0,350,Mumbai
+Hotel Mauli,4.1,350,Mumbai
+Tandoor Magic,3.8,350,Mumbai
+Chokha Curries,3.2,350,Mumbai
+Shree Datta Boarding,4.1,350,Mumbai
+Zaffran,4,400,Mumbai
+Prabhat,4,400,Mumbai
+Biryani And Pulao Collection By ITC Hotels,3.6,400,Mumbai
+Feast at East,3.7,400,Mumbai
+Nawabi Delicacy ,0,400,Mumbai
+Biryani By Kilo,4,400,Mumbai
+Rakesh Paya House,4.2,400,Mumbai
+The Foodie,0,400,Mumbai
+Biryani Pot,0,400,Mumbai
+Midland BKC - Biryani Kebab Curry,0,400,Mumbai
+Tadka Table,0,400,Mumbai
+Brunch Biryani,0,400,Mumbai
+Yummy Biryani,0,300,Mumbai
+The Malai Paneer Company,3.5,300,Mumbai
+Jashn E Biryani,0,300,Mumbai
+Hotel Sagar,3.8,300,Mumbai
+Canara Family Dining,3.8,300,Mumbai
+Tazza,4.1,300,Mumbai
+Sujata Veg Treat,4.1,300,Mumbai
+Ambience Bar & Kitchen,4.2,300,Mumbai
+BOX8 - Desi Meals,4,300,Mumbai
+Altaf's Saffron,4,300,Mumbai
+Behrouz Biryani,4,300,Mumbai
+Pawar's Kitchen,3.9,300,Mumbai
+New India's Kitchen,0,200,Mumbai
+Sawant's Swaad Gharcha,3.7,200,Mumbai
+Tadka Maar Ke By Colossal Kitchens,4.2,200,Mumbai
+Mao Family Restaurant,4,200,Mumbai
+The Good Bowl,4,200,Mumbai
+Tandoor Tale - Veg Rasoi,3.9,200,Mumbai
+Delhi Chinese Centre,3.8,200,Mumbai
+IndiKitchen,3.8,200,Mumbai
+Hotel Mayur Garden,3.3,200,Mumbai
+Raj Palace Restaurant,3.9,200,Mumbai
+Prakash Bar and Kitchen,0,200,Mumbai
+Ishaara,3.8,200,Mumbai
+Jhakas Family Restaurant,3.5,200,Mumbai
+Hotel Sheetal,4.2,200,Mumbai
+Hotel Malvan Kinara,3.8,200,Mumbai
+Express Dine,4.3,200,Mumbai
+Shanti Coffee House,4,200,Mumbai
+Jaffer Bhai's Delhi Darbar,3.9,200,Mumbai
+Satkar Veg Restaurant,4.2,200,Mumbai
+Sion Lunch Home,4.2,200,Mumbai
+Akshaya Restaurant,4,200,Mumbai
+Shapoor,4,200,Mumbai
+New Madras Lunch Home,3.8,200,Mumbai
+Durga Restaurant And Bar,4.3,200,Mumbai
+Visawa Restaurant,4,150,Mumbai
+Vikas Bar & Restaurant,3.6,150,Mumbai
+Asha,3.8,150,Mumbai
+Rehmat Restaurant,3.7,150,Mumbai
+Ashirwad,4,150,Mumbai
+The Central Kitchen,3.8,150,Mumbai
+Shiv Palace Rest & Bar,0,150,Mumbai
+Downtown Dhaba,4,150,Mumbai
+Sneha Restaurant,4.2,150,Mumbai
+Cafe Irani Chaii,4.2,150,Mumbai
+Bombay Elephant,4.2,150,Mumbai
+Bhavesh Chinese 2,3.9,150,Mumbai
+Food By Kilo,0,200,Mumbai
+Super Caterers,0,200,Mumbai
+Hazara Restaurant & Bar,4,200,Mumbai
+Hotel Roshan,0,200,Mumbai
+Hotel Aai,0,200,Mumbai
+Adrak - Indulgence In Flavour,3.9,200,Mumbai
+Tandoori Knight,4,200,Mumbai
+Urrban Spreads,0,200,Mumbai
+Jashn E Biryani,3.1,200,Mumbai
+Food Mood,0,200,Mumbai
+Bhojanam,3.7,200,Mumbai
+Dial A Biryani,4,200,Mumbai
+Masala Street,0,300,Mumbai
+Pahunchar,4,300,Mumbai
+JV Snacks Corner,0,300,Mumbai
+Clara's Kitchen,4,300,Mumbai
+LunchBox - Meals and Thalis,3.9,300,Mumbai
+Cafe Rahat,3.7,300,Mumbai
+Itminaan Biryani - Dum Pukht,4.1,300,Mumbai
+Royal Biryani (Ali Caterers),0,300,Mumbai
+Shobha Foods,0,300,Mumbai
+,0,0,Mumbai
+Great Biryani ,0,150,Hyderabad
+Paradise Biryani,4,200,Hyderabad
+Deccan Chef,3.5,200,Hyderabad
+Hotel Savera,4.3,100,Hyderabad
+Hotel Rumaan,4.1,200,Hyderabad
+Santosh Premium Dhaba,4,200,Hyderabad
+Sagar Papaji Ka Dhaba,4.1,300,Hyderabad
+Mohini Multicuisine Restaurant,4,200,Hyderabad
+Rabiya's Kitchen,4.5,100,Hyderabad
+Gullu Dadas Biryani,4.2,250,Hyderabad
+Fire N Grill Corner,3.1,250,Hyderabad
+Old City Biryanis,0,250,Hyderabad
+Khan Miya,3.7,250,Hyderabad
+Al Armaan Hotel,4.1,250,Hyderabad
+New King Safina Hotel,4.3,250,Hyderabad
+New Falak Restaurant,3.8,250,Hyderabad
+Al- Naseer Tahari Centre ,3.9,250,Hyderabad
+The Mahboob Biryani,0,250,Hyderabad
+Nikhil's Biryani House,4.2,250,Hyderabad
+The Mahboob Biryani,4.1,250,Hyderabad
+Shah Ghouse Hotel & Restaurant,4.2,250,Hyderabad
+Zaffran Mataam Alarabi,4.3,350,Hyderabad
+Sher-E-Punjab,3.9,350,Hyderabad
+Grand Bawarchi Restaurant,4.3,350,Hyderabad
+Hotel SVM Grand,4,350,Hyderabad
+Lazzat Restaurant,3.9,350,Hyderabad
+Shree Lalla Dhaba,3.9,350,Hyderabad
+Jai Dhanlaxmi Chinese Fast Food & Dhaba,4,350,Hyderabad
+Bawarchi,4.1,350,Hyderabad
+Cafe Bahar,4.1,350,Hyderabad
+Shezan Hotel & Baker's,4.2,350,Hyderabad
+Papaji-Da-Dhaba,4,350,Hyderabad
+Balaji Santosh Dhaba,4,350,Hyderabad
+Balaji Santhosh Dhaba,4,250,Hyderabad
+Ravi Dhaba ( Delhi Wala ),4,250,Hyderabad
+Sri Vengamamba Grand,4,250,Hyderabad
+Kings Mezbaan Restaurant,3.9,250,Hyderabad
+Lucky's Biryani House,3.7,250,Hyderabad
+Mini Punjab,3.5,250,Hyderabad
+KFC,4,250,Hyderabad
+Mubarak Darbar,4.3,250,Hyderabad
+M S Tiffin & Chat,4,250,Hyderabad
+Spicy Dhaba,4,250,Hyderabad
+Mehfil,4,250,Hyderabad
+Punjab Restaurant,4,250,Hyderabad
+Jai Durga Hotel Veg & Non Veg,3.9,100,Hyderabad
+Santosh Dhaba,4,100,Hyderabad
+Santosh Dhaba,4.1,100,Hyderabad
+Shree Santosh Family Dhaba,4,100,Hyderabad
+Balaji Santosh Family Dhaba,4.1,100,Hyderabad
+Grand Hotel,4.1,100,Hyderabad
+Behrouz Biryani,4,100,Hyderabad
+The Biryani Life,4,100,Hyderabad
+The Good Bowl,3.9,100,Hyderabad
+Shree Mahalaxmi Dhaba,3.7,100,Hyderabad
+New Grand Restaurant & Bakery,3.9,100,Hyderabad
+Victoria Restaurant,4,100,Hyderabad
+Street Falafel ,4,100,Hyderabad
+Sai Charan Dhabha,4.2,100,Hyderabad
+Pathemari Kerala Restaurant,4.2,100,Hyderabad
+Tasty Tag,4,100,Hyderabad
+Kohinoor Biryani,0,100,Hyderabad
+Panthashala,0,100,Hyderabad
+Imran Cafe,4.3,100,Hyderabad
+GNH Suvidha Hotels,0,100,Hyderabad
+Rasoi Pure Veg Dhaba,4,100,Hyderabad
+Pranav Dhaba,4.1,100,Hyderabad
+Nasr Cafe,0,100,Hyderabad
+Toredo,0,100,Hyderabad
+Shubh Laxmi Dhaba,4,100,Hyderabad
+Lucky Restaurant,3.9,100,Hyderabad
+Zamani Foods & Arabian Mandi,0,100,Hyderabad
+SMR Hotel,0,100,Hyderabad
+Sri Lakshmi Bar & Restaurant,0,100,Hyderabad
+The Pork Affair,4,100,Hyderabad
+,0,0,Hyderabad
+Punjabi Tadka,3.7,200,Lucknow
+Fauji Dhaba - Hygiene & Trusted 24X7 ,3.4,200,Lucknow
+Nagpuri Biryani,0,200,Lucknow
+Mountain Bistro,0,200,Lucknow
+Taste Of Awadh,3.6,200,Lucknow
+Biryani Kitchen,3.6,200,Lucknow
+Biryani Mahal,4,200,Lucknow
+Biryani Hub,3.6,200,Lucknow
+Shaggy'z Kitchen,3.6,200,Lucknow
+Balrampur Chicken Biryani Corner,0,200,Lucknow
+Grandson of Tunday Kababi,3.8,200,Lucknow
+Lucknowi Kitchen,0,200,Lucknow
+Mobeen Biryani,0,200,Lucknow
+Mast Biryani,0,200,Lucknow
+Bilal Non-Veg Corner,0,200,Lucknow
+Zaiqa Muradabadi Chicken Biryani,0,200,Lucknow
+Punjabi Chik Fish,4,100,Lucknow
+Ayan Muradabadi Chicken Biryani Center,0,100,Lucknow
+Shakahari Biryani,0,100,Lucknow
+Alam Biryani Corner,3.9,100,Lucknow
+Yaari Biryani,0,100,Lucknow
+Tikka N Curry,0,100,Lucknow
+Takku Kittu The Dhaba,0,100,Lucknow
+The House Of Biryani,4.3,100,Lucknow
+Sahu Biryani,3.3,100,Lucknow
+Sher - E - Punjab,3.8,100,Lucknow
+Fakhre Alam,3.5,100,Lucknow
+Mashi Biryani World,4.1,100,Lucknow
+Food Point,3.7,150,Lucknow
+Lucknow Darbar,4,150,Lucknow
+Baba Ka Dhaba,3.9,150,Lucknow
+Wahid Biryani,3.5,150,Lucknow
+Royal Fish Corner,0,150,Lucknow
+Destination Lucknow,4,150,Lucknow
+Fusion Flavour,4.1,150,Lucknow
+The Manish Eating Point,3.9,150,Lucknow
+Arif Muradabadi Biryani,4,150,Lucknow
+Shabaan Non-Veg Tikka Corner,4.2,150,Lucknow
+Mama Biryani,4,150,Lucknow
+Bismillah Biryani,4,150,Lucknow
+Zafar Alam Muradabadi Chicken Biryani,3.8,100,Lucknow
+Al - Baike - Arabecue,3.7,100,Lucknow
+Maharaja Chaap,3.6,100,Lucknow
+Biryani Hub,3.5,100,Lucknow
+Foodie Restaurant,3.4,100,Lucknow
+Awadh Biryani,3.6,100,Lucknow
+Al Laziz,3.6,100,Lucknow
+Maharaja Restaurant,3.4,100,Lucknow
+Darbar Restaurant,0,100,Lucknow
+Desi Chulha,3.2,100,Lucknow
+Salman Sheermal Wale,4.4,100,Lucknow
+Baba Biryani,3.8,100,Lucknow
+UBQ by Barbeque Nation,3.9,300,Lucknow
+Azmi Biryani,3.4,300,Lucknow
+Mughlai Wala,3.8,300,Lucknow
+Namaste Lucknow Nonveg Family Restaurant,4.1,300,Lucknow
+The Muradabadi Biryani,3.3,300,Lucknow
+Arif Muradabadi Chicken Biryani,3.3,300,Lucknow
+Raheem's,4.1,300,Lucknow
+Manish Food Point,3.3,300,Lucknow
+Muradabadi And Hyderabadi Chicken Biryani Corner,3.8,300,Lucknow
+Muradabadi Chicken Biryani,3.5,300,Lucknow
+Royal Food Point,3.5,300,Lucknow
+Awadh Eating Point,3.7,300,Lucknow
+Mr Alam Muradabadi Biryani,3.9,150,Lucknow
+Dawat Chicken Biryani,3.9,100,Lucknow
+The Biryani Life,3.9,200,Lucknow
+Awadh Muradabadi Ki Mashoor Chicken Biryani,3.6,100,Lucknow
+Behrouz Biryani,4.1,300,Lucknow
+Muradabadi Chicken Biryani,3.5,150,Lucknow
+Alam Muradabadi And Hyderabadi Chicken Biryani Corner,3.6,150,Lucknow
+New Zakir Restaurant,3.9,200,Lucknow
+Spice Village,4.1,150,Lucknow
+Meals Master,3.6,100,Lucknow
+Juiceghar.com,4.1,100,Lucknow
+Muradabadi Chicken Biryani Centre,3.5,100,Lucknow
+ABC - Aftab Chicken Biryani Centre,4.5,100,Lucknow
+The Good Bowl,4.1,100,Lucknow
+Zeeshan Biryani Corner,4.1,100,Lucknow
+Newly Biryani,3.8,100,Lucknow
+Arif Muradabadi Biryani Center,3.8,100,Lucknow
+New Awadh Biryani Corner,4.1,100,Lucknow
+Arabecue Zaika,4,100,Lucknow
+Baba Biryani,3.7,100,Lucknow
+Mughlai Zaiqa,3.8,100,Lucknow
+New Mubeen,4,100,Lucknow
+Chatpati Fish House,4.1,100,Lucknow
+A One Muradaabadi Biryani,4.3,100,Lucknow
+Kalika Haveli,3.5,150,Lucknow
+Arabecue Fried Chicken,4,150,Lucknow
+Nosh By Bowls & Boxes,4,150,Lucknow
+Aafaan,3.9,150,Lucknow
+Biryani Bowl,3.4,150,Lucknow
+Dasterkhan -E-Zayka,3.1,150,Lucknow
+Mughlai Roll Corner,4.3,150,Lucknow
+Home Made Food,3.9,150,Lucknow
+Royal Indian Curry,4,150,Lucknow
+Adil Muradabadi Biryani,3.3,150,Lucknow
+,0,0,Lucknow
+Zoya Biriyani,4.1,150,Kolkata
+Star Biryani,4,150,Kolkata
+Labbaik Biryani Centre,3.7,150,Kolkata
+New City Restaurant,3.9,150,Kolkata
+Mughal Garden Restaurant,4,150,Kolkata
+Royal Indian Restaurant,4.1,150,Kolkata
+Dustarkhwan Restaurant,3.7,150,Kolkata
+Taj Biryani,3.9,150,Kolkata
+Lazeez Biryani,3.7,150,Kolkata
+Ekanto Apon Fast Food Centre,3.4,100,Kolkata
+UBQ By Barbeque Nation,3.8,100,Kolkata
+Haan 'D' Biryani,4.5,100,Kolkata
+Aminia,3.9,100,Kolkata
+U. P. Bihar,3.9,100,Kolkata
+Arsalan,4.2,100,Kolkata
+Albela Biryani,3.9,100,Kolkata
+Zafran,4.3,100,Kolkata
+Saima Restaurant,3.9,100,Kolkata
+Arman Biryani,3.9,100,Kolkata
+Zam Zam,4.3,100,Kolkata
+Pappu Biryani House,3.5,100,Kolkata
+New Gharib Nawaz Restaurant,4.3,100,Kolkata
+Adil Biryani Restaurant,4,100,Kolkata
+Chaccha Jaan Biryani Aur Kebab Waale,3.9,100,Kolkata
+Shamim Biryani Centre,4.1,100,Kolkata
+Star Zoya Biryani,4,100,Kolkata
+Mughal Arsalan Biryani,3.8,100,Kolkata
+Paradise Biryani,4.1,100,Kolkata
+Aala Biryani House,3.8,100,Kolkata
+Arambagh Restaurant,0,100,Kolkata
+Ziqra Restaurant,4,100,Kolkata
+The Biryani Mahal,3.4,100,Kolkata
+Delisha Biryani House,3.6,100,Kolkata
+Kabuliwala,4.2,200,Kolkata
+New Anam Restaurant,0,200,Kolkata
+New Lazzat Biryani,3.6,200,Kolkata
+Rayyan Biryani,3.6,200,Kolkata
+Alishan Biryani,3.6,200,Kolkata
+Kareem's,4.2,200,Kolkata
+Saiqa Restaurant,3.8,200,Kolkata
+Taj Biryani & Restaurant,3.7,200,Kolkata
+Ather Biryani,3.9,200,Kolkata
+Zikra Biryani N Shakes,4.1,200,Kolkata
+Taj Biryani,3.7,200,Kolkata
+Meraz Biryani And Fast Food,2.6,200,Kolkata
+Khushbu Biryani,3.9,100,Kolkata
+New Arsalan Biryani,3.3,100,Kolkata
+Biryani Corner,0,100,Kolkata
+Punjabi Paltan,3.9,100,Kolkata
+Gharwali Biryani,4,100,Kolkata
+Rang Rasoi,0,100,Kolkata
+Afrah,0,100,Kolkata
+Zaitoon Biryani,3.6,100,Kolkata
+Biryani By Kilo,4,100,Kolkata
+The Biryani Life,3.2,100,Kolkata
+Biryani De Nation,3.1,100,Kolkata
+Wah Janaab,4.1,100,Kolkata
+Al Hamd Biryani,0,100,Kolkata
+Central Kitchen,4.2,100,Kolkata
+Sohail Biryanee Corner,3.4,100,Kolkata
+Kainat Food Corner,3.8,100,Kolkata
+New Alishan Biryani,4.3,100,Kolkata
+Kaaram-The Andhra Kitchen,4.3,100,Kolkata
+Pakwaan,3.9,100,Kolkata
+Shahid Shahi Darbar,4.2,100,Kolkata
+  Royal Fahad Biryani,3.5,100,Kolkata
+MD Walia Kebab Corner,3.6,100,Kolkata
+Shahi Biryani House,0,100,Kolkata
+Big Phil's,0,100,Kolkata
+Raja Biriyani Centre,0,100,Kolkata
+Shiraz Golden Restaurant,3.9,100,Kolkata
+Royal Spoon,3.9,100,Kolkata
+New Paul Dhaba,3.8,100,Kolkata
+Shimla Biryani,4,100,Kolkata
+Kitchen Restaurant,4,100,Kolkata
+Mum's Kitchen,3.8,100,Kolkata
+Kouzina Mining Co.,4,100,Kolkata
+Mezban,3.8,100,Kolkata
+Honey Da Dhaba,4.1,100,Kolkata
+Ayan Fast Food Center,3.8,100,Kolkata
+Kankurgachi Dhaba,3.5,100,Kolkata
+Saif Fried Chicken,0,50,Kolkata
+Fusion,4.1,50,Kolkata
+Apu's Kitchen,4.1,50,Kolkata
+Rajshahi Restaurant,3.4,50,Kolkata
+New Paul Dhaba Veggie Hub,4,50,Kolkata
+Anokha Baghicha,3.8,50,Kolkata
+Sanjha Chulha,4.1,50,Kolkata
+Chittoda's Suruchee Restaurant,4.4,50,Kolkata
+Badshah Bar & Restaurant,4.3,50,Kolkata
+,0,0,Kolkata
+Biryani Royal,4.1,250,Bangalore
+Biryani Mahal,3,250,Bangalore
+Biryani Now By YummyEats,3.8,250,Bangalore
+Baba Biryani,3.2,250,Bangalore
+Late Night Food,3.3,250,Bangalore
+Biryani Darbar ,0,250,Bangalore
+Andhra Delight,3.9,250,Bangalore
+Dribble North Indian Food Factory,0,250,Bangalore
+Hot Dum Biryani,3.1,250,Bangalore
+Taj Biryani,0,200,Bangalore
+Singh Ji Food,3.8,200,Bangalore
+Nammura Ruchi - Village Style Non-Veg,0,200,Bangalore
+Combos King,0,200,Bangalore
+Kilo Hyderabadi Hot Dum Biryani,0,200,Bangalore
+Burmuda Biryani,3.5,200,Bangalore
+Biryani Central,3,200,Bangalore
+Simply South By YummyEats,3.7,200,Bangalore
+Mamata Biryani House,3.2,200,Bangalore
+The Burger Shack,2.9,200,Bangalore
+Mani's Dum Biryani,4.2,200,Bangalore
+Hotel Navayuga,4.3,200,Bangalore
+Pappu BC,3.2,200,Bangalore
+Donne Biriyani House,3.6,200,Bangalore
+N.V. Naidu Hotel,4,200,Bangalore
+UBQ By Barbeque Nation,3.7,200,Bangalore
+Ammas Donne Biriyani House,3.3,200,Bangalore
+Raj Restaurant,0,200,Bangalore
+Gully Grill,0,200,Bangalore
+Big Biriyani Company,2.7,200,Bangalore
+The Biryani Life,3.8,200,Bangalore
+Shahi Biryani,4.3,200,Bangalore
+TT's Kitchen,0,250,Bangalore
+Absolute Combos,0,250,Bangalore
+Haaji Saheb Ki Biryani,0,250,Bangalore
+Aaliyar Ambur Dum Biryani,4.2,250,Bangalore
+Tahsin Foods,0,250,Bangalore
+Biryani And Pulao Collection By ITC Hotels,4.3,250,Bangalore
+Biryani Trip,4.4,250,Bangalore
+Goila Butter Chicken ,4.2,250,Bangalore
+Gandhinagar Donne Biriyani,3.7,250,Bangalore
+Andhra Gunpowder,4.3,250,Bangalore
+Bullet Biryani,4.3,250,Bangalore
+Al Taj Biryani,0,250,Bangalore
+Biryani By Kilo,4,400,Bangalore
+All About Biryani  By Goldfinch,3.5,400,Bangalore
+Balepete Donne Biryani,0,400,Bangalore
+Shahi Taj Restaurant,0,400,Bangalore
+Punjab Bistro,0,400,Bangalore
+Dvg Biryani And Kabab Center,0,400,Bangalore
+Bucket Biryani,4.3,400,Bangalore
+Ambur Star Dum Biryani,4.3,400,Bangalore
+Royal B.C,0,400,Bangalore
+Mezbaan Biriyani,0,400,Bangalore
+Srinivasa Mess,3.8,400,Bangalore
+Barbeque Nation,4,400,Bangalore
+Gundappa Donne Biryani,4,150,Bangalore
+Oh! Calcutta,4.2,150,Bangalore
+Raaga,4,150,Bangalore
+Empire Restaurant,3.8,150,Bangalore
+Samruddi  Nonveg,0,150,Bangalore
+Ammi's Biryani,0,150,Bangalore
+Green Kitchen Palace,0,150,Bangalore
+Donne Biryani Hatti,4,150,Bangalore
+Pahilwani Handi,4,150,Bangalore
+Naachiyar's,4.1,150,Bangalore
+Nandhini Deluxe,4.1,150,Bangalore
+FreshMenu,3.8,150,Bangalore
+Ayda Persian Kitchen,4,300,Bangalore
+Imperial Restaurant,3.9,300,Bangalore
+Ocea Hotel,3.7,300,Bangalore
+Hotel Chandrika,4,300,Bangalore
+3 Spice,3.4,300,Bangalore
+Aathithya,0,300,Bangalore
+Pai Vihar,4,300,Bangalore
+Karavali Kolimane,3.6,300,Bangalore
+Savji's Roll 'N' Biryani,3.9,300,Bangalore
+Ambur Star Briyani Since 1890,4.3,300,Bangalore
+Shahi Family Restaurant,3.5,300,Bangalore
+Sharief Bhai,4.1,300,Bangalore
+Sampurna - The House Of Southern Flavours,4,150,Bangalore
+Hotel Malabar Palace,0,150,Bangalore
+Salt Mango Tree,4.2,150,Bangalore
+One Atria Cafe - Radisson Blu Atria,0,150,Bangalore
+EatFit,4,150,Bangalore
+Royal Treat,4.3,150,Bangalore
+Behrouz Biryani,3.8,150,Bangalore
+Baba Da Dhaba,4,150,Bangalore
+No.10 Fort Cochin,4,150,Bangalore
+Andhra Mess,3.8,150,Bangalore
+Deccan Spices,0,150,Bangalore
+Relish Family Restaurant,3.6,150,Bangalore
+New Star Hotel,0,100,Bangalore
+Donne Biryani Corner,3.6,100,Bangalore
+Anjappar,3.8,100,Bangalore
+Bombay Brasserie,4.1,100,Bangalore
+Kani's Kitchen,3.7,100,Bangalore
+Eden Park,4,100,Bangalore
+Hamza Hotel,4.1,100,Bangalore
+Sahana's Nati Style,3.9,100,Bangalore
+Hotel Fanoos,3.9,100,Bangalore
+,0,0,Bangalore
