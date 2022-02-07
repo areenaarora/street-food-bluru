@@ -3,9 +3,9 @@
 Indians love Biryani. Our cities fight over them and we're obsessed with proving ours is the ONE supreme kind. This project will (hopefully) help settle the bet and use data to prove which city REALLY has the best Biryani!
 
 ### Goal
-To create a database of eateries (restaurants, bars, street food) that's sortable by user reviews and price ranges. I first used Google Maps' API to scrape the data. After a major challenge, I pivoted to using [Zomato]('https://www.zomato.com/') and since Zomato doesn't allow API requests, I used Selenium and Beautiful Soup.
+- To create a database of eateries (restaurants, bars, street food) that's sortable by user reviews and price ranges. I first used Google Maps' API to scrape the data. After a major challenge, I pivoted to using [Zomato]('https://www.zomato.com/') and since Zomato doesn't allow API requests, I used Selenium and Beautiful Soup.
 
-##### *The challenge with using Google Maps API*
+- ##### *The challenge with using Google Maps API*
 *The API doesn't give out more than 20 results per query and caps results at 60 per search. I googled the latitude and longitude values for the intended city and set the search radius as 20 kms— an arbitrary choice. But, to scale this model up, I needed a way to scrape the entire city without having to constantly change lat-long values and get reliable results.*
 
 #### Process and caveats
